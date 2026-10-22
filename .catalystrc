@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2710000000011033",
+      "name": "Project-Rainfall",
+      "domain": {
+        "id": "8006113090",
+        "name": "project-rainfall-7006542512.development"
+      },
+      "timezone": "Australia/Sydney",
+      "env": [
+        {
+          "idx": 1,
+          "id": "7006542512",
+          "name": "Development",
+          "type": 3
+        },
+        {
+          "idx": 2,
+          "id": "8006113366",
+          "name": "Production",
+          "type": 1
+        }
+      ]
+    }
+  ]
+}

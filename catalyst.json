@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "sendzohosign"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
